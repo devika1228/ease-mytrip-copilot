@@ -9,7 +9,7 @@
 
 ## Tech stack (prototype)
 - Streamlit (UI + logic)
-- OpenAI API (LLM) — replace with Vertex if available
+- OpenAI API (LLM)
 - Simple in-memory storage for generated itineraries
 
 ## Quickstart (local)
