@@ -27,10 +27,6 @@
 4. Click **Mood: Tired** → shows a shortened day plan.
 5. Click **Generate Postcard** → shows AI-generated postcard text + sample image.
 
-## Deploy
-- Option 1: Streamlit Cloud (easy)
-- Option 2: Docker + Cloud Run (Dockerfile provided)
-
 ## Notes
 - OpenAI usage costs apply. For hackathon, you can use a small prompt + mock fallback text.
 - Replace OpenAI calls with Vertex AI if you have credentials.
